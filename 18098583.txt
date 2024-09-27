@@ -1,0 +1,4 @@
+Banco de origen: mibanco
+La cuenta con el nro de cuenta: 18098583 no tiene un saldo superior a 5000.00.
+Lamentablemente no podrá acceder al concurso de la SBS por 10000.00 soles.
+Gracias
